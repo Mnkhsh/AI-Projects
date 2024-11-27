@@ -1,1 +1,1 @@
-# AI-Projects
+# AI News Aggregator
